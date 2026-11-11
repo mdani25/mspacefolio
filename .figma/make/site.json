@@ -1,0 +1,10 @@
+{
+  "description": "Explore software engineer Manikandan S’s portfolio, showcasing his experience, projects, skills, and achievements for recruiters and collaborators.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
