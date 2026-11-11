@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
-import heroPortrait from "./assets/images/profile (1).png";
-import aboutPortrait from "./assets/images/profile (2).png";
+import heroPortrait from "./assets/images/profile-1.png";
+import aboutPortrait from "./assets/images/profile-2.png";
 import resumePdf from "./assets/resume/manikandan_s.pdf";
 import mspaceLogo from "./assets/images/MSpace-logo.png";
 
